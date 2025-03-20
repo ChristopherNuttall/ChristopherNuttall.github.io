@@ -15,7 +15,7 @@ By systematically analysing settlement data from over 110 surveys in central and
 
 This research has so far supported four pieces of peer-reviewed work, as well as one workshop. In 2025, the datasets that supported the analysis will be uploaded project-by-project to GitHub.
 
-### Publications  
+### Related publications  
 
 - **Nuttall, C**. 2024. "Review of *The Wider Island of Pelops. Studies on Prehistoric Aegean Pottery in Honour of Professor Christopher Mee*." *Opuscula, Annual of the Swedish Institutes at Athens and Rome* 17, 261–263. [DOI](https://doi.org/10.30549/opathrom-17-14)  
 
@@ -25,5 +25,6 @@ This research has so far supported four pieces of peer-reviewed work, as well as
 
 - **Nuttall, C**. & Zikidi, Ch. 2023. "Necrogeography in Southwest Peloponnese. A GIS-based study of the spatial distribution of Bronze Age tumulus and tholos tombs in Messenia." *AURA, University of Athens Review* 6, 69–97. [DOI](http://dx.doi.org/10.26247/aura6.3)
 
-### Works in Progress  
+### Related works in Progress  
 - **Nuttall, C**. and Kovačević, J. 2025 (pre-print available). “Mycenaean Roads in the Peloponnese, Greece: Least-Cost Path Modelling Using R and Movecost”. Available at SSRN: [URL](https://ssrn.com/abstract=4891145) [DOI](http://dx.doi.org/10.2139/ssrn.4891145)
+- **Nuttall, C** (ed.). Spatial Approaches to ancient Greek and Cypriot landscapes. Swedish Institute of Athens and Rome (Skrifter utgivna av Svenska institutet i Athen, 8˚). 
