@@ -1,7 +1,7 @@
 ---
 title: "Little Islandscapes of the Saronic Project"
 layout: single
-permalink: /research/lisp/
+permalink: /_research/lisp/
 ---
 
 ## Little Islandscapes of the Saronic Project (Angistri, Greece)  
