@@ -18,7 +18,7 @@ The project centred on a comprehensive re-study and publication of the archaeolo
 
 This research resulted in two peer-reviewed book chapters and one standalone peer-reviewed article.
 
-### Publications  
+### Related publications  
 
 - **Nuttall, C. & Theodoropoulou, K. 2024.** "Part VII. The Fisherman Vase."  
   In **R.L.N. Barber**, *Phylakopi, Melos, 1896–99: The Finds in the National Archaeological Museum, Athens* (BSA Supplementary Volume 53; London), 267–9. [URL](https://www.pen-and-sword.co.uk/Phylakopi-Melos-189699-The-Finds-in-the-National-Archaeological-Museum-Athens-Hardback/p/50844)  
