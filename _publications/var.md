@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/in-the-shadows-of-a-giant/
 excerpt: "This study explores the interrelation between settlement dynamics and coastal proximity during the Bronze Age in the Saronic Gulf using an innovative spatial analytical approach."
 date: 2024-07-08
-venue: "Virtual Archaeology Review"
+venue: "[Virtual Archaeology Review](https://polipapers.upv.es/index.php/var/index)"
 paperurl: "https://doi.org/10.4995/var.2024.21694"
 slidesurl: # Adjust this link if you have slides; otherwise, you can remove this field.
 citation: "Nuttall, C. (2024). “In the Shadows of a Giant? A Spatial Analytical Method for Assessing Coastal Proximity using R: a Case-Study from the Bronze Age Saronic Gulf (Greece)”. <i>Virtual Archaeology Review</i>, 31, 16–36."
