@@ -22,3 +22,5 @@ This research resulted in one PhD monograph and one peer-reviewed book chapter.
 - **Nuttall, C. 2021b.** *"Backs to the Sea? Least-Cost Paths and Coastality in the Southern Early Bronze Age IIA Aegean."*  
   In G. Albertazzi, A. Saggio & G. Muti (eds.), *Islands in Dialogue (ISLANDIA): Proceedings of the First International Postgraduate Conference in the Prehistory and Protohistory of the Mediterranean Islands.* Roma: Artemide Edizioni, 116–29.  
   **URL:** [URL](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-470339)
+
+![thesis](/assets/thesis.jpg)
