@@ -11,7 +11,7 @@ The Swedish Research Council-funded project *Populating the Coastal Landscapes o
 
 By systematically analysing settlement data from over 110 surveys in central and southern Greece, the project sought to identify periods and regions of intensified or diminished coastal engagement and to clarify whether habitation near the coast was driven primarily by access to marine resources, trade networks, or other socio-economic factors. The outcomes include the development of methodologies broadly applicable beyond Greece, providing new insights into how prehistoric communities structured their lives around the opportunities and risks presented by coastal environments.
 
-<img src="/assets/workshop.jpg" alt="workshop" height="200">
+<img src="/assets/workshop.jpg" alt="workshop" height="50">
 
 This research has so far supported four pieces of peer-reviewed work, as well as one workshop. In 2025, the datasets that supported the analysis will be uploaded project-by-project to GitHub.
 
