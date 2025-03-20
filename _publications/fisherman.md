@@ -1,5 +1,5 @@
 ---
-title: "2024. Part VII. The Fishermen Vase"
+title: "Part VII. The Fishermen Vase"
 collection: publications
 category: manuscripts
 permalink: /publication/the-fishermen-vase/
