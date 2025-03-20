@@ -5,7 +5,7 @@ permalink: /research/populating_coastal_landscapes/
 ---
 
 ## Populating the Coastal Landscapes of Greece  
-**Principal Investigator**  
+**Principal Investigator (2023-2025)**  
 
 The Swedish Research Council-funded project *Populating the Coastal Landscapes of Greece* aimed to understand the nature and significance of human engagement with coastal landscapes ("coastscapes") in later Greek prehistory (7000–1100 BCE). It employed a multidisciplinary approach combining spatial analysis, GIS methodologies, and archaeological data from extensive published fieldwalking surveys. The research specifically introduced novel spatial analytical frameworks such as "coastal proximity analysis" and the "coastal engagement index" to quantify and visualise coastal habitation patterns, spatial connectedness to the sea, and intensity of human activity over time.
 
