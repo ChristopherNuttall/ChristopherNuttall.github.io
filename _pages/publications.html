@@ -32,5 +32,18 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+<!-- Add your form here -->
+<h2>Request My Work</h2>
+<p>If you would like to request my work, please fill out the form below with your email and an optional message.</p>
+
+<form action="https://formspree.io/f/{your_form_id}" method="POST">
+    <label for="email">Your Email:</label><br>
+    <input type="email" id="email" name="email" placeholder="Your email address" required><br><br>
+
+    <label for="message">Message (Optional):</label><br>
+    <textarea id="message" name="message" placeholder="Write your message here..." rows="5"></textarea><br><br>
+
+    <button type="submit">Submit</button>
+</form>
 
 
