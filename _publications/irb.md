@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/spouted-sirb/
 excerpt: "This study examines the typological and chronological sequence of spouted inturned‑rim bowls (SIRBs) from Phylakopi, providing insights into Cycladic ceramic development."
 date: 2024-06-01
-venue: "BSA Supplementary Volume 53; London, 324–8"
+venue: "Annual of the British School at Athens Supplementary Volume 53."
 paperurl: # "https://www.pen-and-sword.co.uk/Phylakopi-Melos-189699-The-Finds-in-the-National-Archaeological-Museum-Athens-Hardback/p/50844"
-citation: "Nuttall, C. and Theodoropoulou, K. (2024). “Part X. Spouted inturned‑rim bowls (SIRB)”, in R.L.N. Barber, Phylakopi, Melos, 1896‑99: The Finds in the National Archaeological Museum, Athens (BSA Supplementary Volume 53; London, 324–8)."
+citation: "Nuttall, C. and Theodoropoulou, K. (2024). “Part X. Spouted inturned‑rim bowls (SIRB)”, in R.L.N. Barber, Phylakopi, Melos, 1896‑99: The Finds in the National Archaeological Museum, Athens (BSA Supplementary Volume 53; London, 324–328)."
 ---
 
 ## Abstract
