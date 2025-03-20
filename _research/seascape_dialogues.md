@@ -15,7 +15,7 @@ The analysis demonstrated considerable variability in maritime interactions acro
 
 This research resulted in one PhD monograph and one peer-reviewed book chapter.
 
-### Publications
+### Related publications
 
 - **Nuttall, C. 2021.** *Seascape Dialogues: Human-Sea Interaction in the Aegean Late Neolithic to Late Bronze Age.* PhD thesis. Uppsala: Department of Archaeology and Ancient History, Uppsala University. [DOI](https://doi.org/10.33063/diva-457245)  **ISBN:** 978-91-506-2910-1 (print)  
 
