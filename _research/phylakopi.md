@@ -1,7 +1,7 @@
 ---
 title: "Phylakopi Republication Project"
 layout: single
-permalink: /research/phylakopi/
+permalink: /_research/phylakopi/
 ---
 
 ## British School at Athens Phylakopi Republication Project  
