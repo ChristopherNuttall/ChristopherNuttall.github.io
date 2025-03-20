@@ -13,7 +13,7 @@ title                    : "Christopher Nuttall/Archaeologist"
 title_separator          : "-"
 name                     : &name "Dr. Christopher Nuttall"
 description              : &description "Archaeologist specializing in landscape archaeology, GIS, prehistoric ceramics, and the Bronze Age Aegean."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://christophernuttall.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChristopherNuttall/christophernuttall.github.io"
 
