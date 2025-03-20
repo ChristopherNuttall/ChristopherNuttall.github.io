@@ -9,7 +9,7 @@ permalink: /research/lisp/
 
 The **Little Islandscapes of the Saronic Project (LISP)** is a collaborative archaeological survey investigating human occupation and land-use strategies on small islands of the Saronic Gulf, Greece. As Project Director, responsibilities include setting the research aims and agenda, liaising with Greek archaeological authorities and the **Swedish Institute at Athens** to ensure fieldwork is conducted correctly, and overseeing the coordination of colleagues and the publication of field seasons.
 
-LISP addresses a significant gap in research by focusing on the small islands and islets of the Saronic Gulf, collectively referred to as the *Little Islandscape of the Saronic*. Nestled between Attica and the eastern Peloponnese, and close to key historical centers, these islands have been largely overlooked in archaeological studies. This project represents an **urgent effort to document and understand the historical significance of these islands** before they are irreversibly altered by urbanization and expanding tourism infrastructure.
+LISP addresses a significant gap in research by focusing on the small islands and islets of the Saronic Gulf, collectively referred to as the *Little Islandscape of the Saronic*. Nestled between Attica and the eastern Peloponnese, and close to key historical centers, these islands have been largely overlooked in archaeological studies. This project represents an urgent effort to document and understand the historical significance of these islands before they are irreversibly altered by urbanization and expanding tourism infrastructure.
 
 ![Anghistri Island](/assets/anghistri.jpg)  
 *View over southern Anghistri towards Doroussa and Kyra.*
