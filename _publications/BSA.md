@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/sea-brought-onto-land/
 excerpt: "This study examines seascape depictions on pottery from the 1896–9 excavations at Phylakopi on Melos and held in the National Archaeological Museum of Athens, exploring shifting iconographic themes."
 date: 2025-01-01
-venue: "BSA 119, 61–81"
+venue: "Annual of the British School at Athens 119."
 paperurl: "https://doi.org/10.1017/S0068245424000017"
 citation: "Nuttall, C. (2024). ‘Sea brought onto Land’. Seascape Imagery in the Cycladic Pottery from Phylakopi (Melos) held in the National Archaeological Museum, Athens. <i>BSA 119</i>, 61–81."
 ---
