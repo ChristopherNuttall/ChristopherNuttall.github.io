@@ -5,7 +5,7 @@ permalink: /research/seascape_dialogues/
 ---
 
 ## Seascape Dialogues: Human-Sea Interaction in the Aegean from Late Neolithic to Late Bronze Age  
-*Doctoral Researcher*  
+**Doctoral Researcher (2016-2021)**  
 
 Seascape Dialogues investigated how prehistoric communities engaged with maritime environments across the Aegean between approximately 4800 and 1600 BCE. The study utilised GIS-based spatial analyses, marine faunal remains, material culture evidence, and marine-themed iconography to examine patterns of coastal settlement, subsistence strategies, and symbolic interactions with the sea. A key analytical concept was "coastality," defined as the varying degrees of proximity and orientation of settlements towards coastal areas, which significantly shaped both practical and symbolic dimensions of human-sea relationships.
 
