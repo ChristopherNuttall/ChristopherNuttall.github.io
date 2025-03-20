@@ -1,7 +1,7 @@
 ---
 title: "Seascape dialogues: human-sea interaction in the Aegean Late Neolithic to Late Bronze Age"
 collection: publications
-category: theses
+category: books
 permalink: /publication/seascape-dialogues/
 excerpt: "This PhD thesis investigates human-sea interactions in the Aegean from the Late Neolithic to the Late Bronze Age through spatial, material, and iconographic analyses."
 date: 2021-12-01
