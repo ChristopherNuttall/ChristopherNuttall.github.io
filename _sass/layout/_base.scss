@@ -18,13 +18,6 @@ body {
   font-family: $global-font-family;
   line-height: 1.5;
 
-  /* Add background image */
-  background-image: url(/assets/Ancient_Coastal_Village.jpg); // Replace with the actual path to your image
-  background-repeat: no-repeat;
-  background-size: cover; /* Ensure the image covers the entire viewport */
-  background-position: center; /* Center the image */
-  padding: 0 30px; /* Add spacing to ensure text doesn’t overlap the sides */
-
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
