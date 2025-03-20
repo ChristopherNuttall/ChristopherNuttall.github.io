@@ -19,7 +19,7 @@ body {
   line-height: 1.5;
 
   /* Add background image */
-  background-image: url('/assets/Ancient_Coastal_Village.jpg'); // Replace with the actual path to your image
+  background-image: url(/assets/Ancient_Coastal_Village.jpg); // Replace with the actual path to your image
   background-repeat: no-repeat;
   background-size: cover; /* Ensure the image covers the entire viewport */
   background-position: center; /* Center the image */
