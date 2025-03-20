@@ -1,7 +1,7 @@
 ---
 title: "Populating the Coastal Landscapes of Greece"
 layout: single
-permalink: /_research/populating_coastal_landscapes/
+permalink: /research/populating_coastal_landscapes/
 ---
 
 ## Populating the Coastal Landscapes of Greece  
