@@ -1,7 +1,7 @@
 ---
 title: "Seascape Dialogues"
 layout: single
-permalink: /research/seascape_dialogues/
+permalink: /_research/seascape_dialogues/
 ---
 
 ## Seascape Dialogues: Human-Sea Interaction in the Aegean from Late Neolithic to Late Bronze Age  
