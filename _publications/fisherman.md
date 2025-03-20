@@ -6,7 +6,7 @@ permalink: /publication/the-fishermen-vase/
 excerpt: "This paper examines the Fishermen Vase from Phylakopi—a unique example of Black and Red style pottery—inviting requests for access."
 date: 2024-06-01
 venue: "BSA Supplementary Volume 53; London"
-paperurl: "https://www.pen-and-sword.co.uk/Phylakopi-Melos-189699-The-Finds-in-the-National-Archaeological-Museum-Athens-Hardback/p/50844"
+paperurl: # "https://www.pen-and-sword.co.uk/Phylakopi-Melos-189699-The-Finds-in-the-National-Archaeological-Museum-Athens-Hardback/p/50844"
 citation: "Nuttall, C. and Theodoropoulou, K. (2024). “Part VII. The Fishermen Vase”, in R.L.N. Barber, Phylakopi, Melos, 1896-99: The Finds in the National Archaeological Museum, Athens, (BSA Supplementary Volume 53; London, 267–9. https://www.pen-and-sword.co.uk/Phylakopi-Melos-189699-The-Finds-in-the-National-Archaeological-Museum-Athens-Hardback/p/50844. Please request."
 ---
 
