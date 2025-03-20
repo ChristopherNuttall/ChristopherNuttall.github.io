@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Curriculum Vitae"
+permalink: /cv/
+---
 <h2>Curriculum Vitae</h2>
 <p>View my CV directly on this page:</p>
 
