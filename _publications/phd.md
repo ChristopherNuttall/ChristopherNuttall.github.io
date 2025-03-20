@@ -5,7 +5,6 @@ category: books
 permalink: /publication/seascape-dialogues/
 excerpt: "This PhD thesis investigates human-sea interactions in the Aegean from the Late Neolithic to the Late Bronze Age through spatial, material, and iconographic analyses."
 date: 2021-12-01
-venue: "PhD thesis, Department of Archaeology and Ancient History, Uppsala University"
 paperurl: "https://doi.org/10.33063/diva-457245"
 citation: "Nuttall, C. (2021a). Seascape dialogues: human-sea interaction in the Aegean Late Neolithic to Late Bronze Age. PhD thesis. Uppsala: Department of Archaeology and Ancient History, Uppsala University. ISBN: 978-91-506-2910-1 (print)."
 ---
