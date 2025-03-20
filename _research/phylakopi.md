@@ -5,7 +5,7 @@ permalink: /research/phylakopi/
 ---
 
 ## British School at Athens Phylakopi Republication Project  
-**Project Member**  
+**Project Member (2013-2025)**  
 
 The project centred on a comprehensive re-study and publication of the archaeological material from the historically significant Bronze Age site of Phylakopi on Melos, originally excavated by the British School at Athens between 1896 and 1899. The recent work filled critical gaps left by earlier studies, providing detailed catalogues, scientific analyses (including petrography, chemical, and pXRF studies), and scale illustrations essential for modern archaeological comparison and interpretation. Within this broader framework, specific contributions included the publication of the inturned-rim bowls and, together with **Kalliopi Theodoropoulou**, the *Fisherman Vase*. Additionally, the role involved assisting in the broader material study of prehistoric ceramics, further clarifying Phylakopi's technological connections to other Cycladic islands, Crete, and the Greek mainland.
 
