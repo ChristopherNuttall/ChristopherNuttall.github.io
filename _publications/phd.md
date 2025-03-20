@@ -18,4 +18,4 @@ Uneven recovery practices in excavations impacted the marine faunal record, thou
 
 Seascapes were created under specific conditions according to local circumstances and choices. They were not expressed in a uniform manner through time and space and were not an inevitable outcome of living in an area with relative ease of access to the sea.
 
-Download here: [Volume 1: text](/files/Nuttallphdvol1.pdf) [Volume 2: appendices](/files/Nuttallphdvol2.pdf)
+Download here: [Volume 1](/files/Nuttallphdvol1.pdf): text [Volume 2](/files/Nuttallphdvol2.pdf): appendices
