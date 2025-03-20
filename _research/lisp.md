@@ -5,7 +5,7 @@ permalink: /research/lisp/
 ---
 
 ## Little Islandscapes of the Saronic Project (Angistri, Greece)  
-**Project Director**  
+**Project Director (2024-present)**  
 
 The **Little Islandscapes of the Saronic Project (LISP)** is a collaborative archaeological survey investigating human occupation and land-use strategies on small islands of the Saronic Gulf, Greece. As Project Director, responsibilities include setting the research aims and agenda, liaising with Greek archaeological authorities and the **Swedish Institute at Athens** to ensure fieldwork is conducted correctly, and overseeing the coordination of colleagues and the publication of field seasons.
 
