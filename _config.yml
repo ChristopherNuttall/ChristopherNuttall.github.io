@@ -221,7 +221,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research profile:
+  research:
     output: true
     permalink: /:_research/:path/
   talks:
