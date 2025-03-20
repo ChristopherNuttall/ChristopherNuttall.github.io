@@ -11,21 +11,20 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body style="text-align: justify;"> <!-- Apply global text justification -->
+<body style="text-align: justify;"> <!-- Apply global text justification -->
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
 
-    {{ content }}
+  <div class="content-container">
+    {{ content }} <!-- All your page content -->
+  </div>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
+  <footer class="page__footer">
+    {% include footer/custom.html %}
+    {% include footer.html %}
+  </footer>
 
   </body>
+
 </html>
