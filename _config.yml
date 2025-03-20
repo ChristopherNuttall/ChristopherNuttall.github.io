@@ -27,11 +27,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Archaeologist specializing in landscape archaeology, GIS, prehistoric ceramics, and the Bronze Age Aegean."
   location         : "Athens, Greece"
-  employer         : "Swedish Institute at Athens"
-  employer         : "National and Kapodistrian University of Athens"
+  employer         : 
+  - "Swedish Institute at Athens"
+  - "National and Kapodistrian University of Athens"
   uri              : # URL
-  email            : "chrisnuttallacademia@gmail.com" 
-  email            : "chris.nuttall@sia.gr"
+  email            : 
+  - "chrisnuttallacademia@gmail.com" 
+  - "chris.nuttall@sia.gr"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
