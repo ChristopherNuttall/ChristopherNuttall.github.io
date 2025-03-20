@@ -2,7 +2,7 @@
 title: "In the Shadows of a Giant? A Spatial Analytical Method for Assessing Coastal Proximity using R: a Case-Study from the Bronze Age Saronic Gulf (Greece)"
 collection: publications
 category: manuscripts
-permalink: /publication/var
+permalink: /publication/in-the-shadows-of-a-giant/
 excerpt: "This study explores the interrelation between settlement dynamics and coastal proximity during the Bronze Age in the Saronic Gulf using an innovative spatial analytical approach."
 date: 2024-07-08
 venue: "Virtual Archaeology Review"
